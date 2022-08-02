@@ -1,0 +1,102 @@
+
+.profil-button{
+    padding: 5px 10px;
+    border-radius: 12px;
+    background-color: #FCFCFC;
+    border: none;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+.fa-profil{
+    color: black;
+}
+.profil-link{
+    padding-top: 20px;
+    padding-left: 15px;
+}
+.container{
+    width: 95%;
+    margin: 0 auto;
+}
+.user-holder{
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    background-color: #FCFCFC;
+    margin-top: -20px;
+    border-radius: 10px;
+    
+}
+.user-info h1 {
+    font-size: 1.3rem;
+    padding-left: 10px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-bottom: 0;
+}
+.user-info p {
+    font-size: 0.9rem;
+    padding-left: 10px;
+    margin-top: 0;
+    padding-top: 3px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.user-icons{
+    display: flex;
+    gap:10px;
+}
+.status-holder {
+    border-radius: 10px;
+    background-color:#FCFCFC;
+}
+.status-holder h1 {
+    font-size: 1.5rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 0;
+}
+.status-holder p {
+    font-size: 1rem;
+    padding: 5px 10px;
+    margin-top: 0;
+    font-weight: 100;
+}
+.media-holder{
+    border-radius: 10px;
+    background-color: #FCFCFC;
+    
+}
+.media-one {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+   
+}
+.media-one h1 {
+    font-size: 1.2rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 400;
+    padding-left: 20px;
+    width: 100%;
+}
+.media-one h2 {
+    font-size: 1rem;
+    font-weight: 400;
+    padding-left: 65px;
+    padding-right: 5px;
+}
+.mute-info{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: white;
+    height: 9vh;
+
+}

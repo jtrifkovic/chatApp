@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "name":"Stefan Lazarević",
+        "img":"../img/profil.jpeg",
+        "time": "12:15",
+        "calls":"missed",
+        "number":"066/123-456"
+    },
+    {
+        "id":2,
+        "name":"Jovan Trifković",
+        "img":"../img/profil1.jpeg",
+        "time": "12:15",
+        "calls":"missed",
+        "number":"066/456-789"
+        
+        
+    },
+    {
+        "id":3,
+        "name":"Luka Savić",
+        "img":"../img/profil2.jpg",
+        "time": "12:15",
+        "calls":"missed",
+        "number":"066/789-111"
+        
+        
+    },
+    {
+        "id":4,
+        "name":"Zdravko Čolić",
+        "img":"../img/cola.jpg",
+        "time": "12:15",
+        "calls":"missed",
+        "number":"066/225-883"
+        
+        
+    },
+    {
+        "id":5,
+        "name":"Šaban Šaulić",
+        "img":"../img/sabke.jpg",
+        "time": "12:15",
+        "calls":"missed",
+        "number":"066/333-666"           
+    }
+    
+] 
+

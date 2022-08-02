@@ -1,0 +1,30 @@
+.nav{
+    display: flex;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #25D366;
+    z-index: 0;
+  
+}
+
+.fa-phone{
+    font-size: 25px;
+    color: white;
+    padding-right: 50px;
+}
+.fa-comment{
+    font-size: 25px;
+    
+    color: white;
+    padding-right: 50px;
+}
+.fa-gear{
+    font-size: 25px;
+    
+    color: white;
+    padding-right: 40px;
+}

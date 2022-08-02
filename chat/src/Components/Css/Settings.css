@@ -1,0 +1,74 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.settings-header{
+    display: flex;
+    gap:50px;
+    align-items: center;
+    background-color: #128C7E;
+    padding: .3rem 1rem;
+    color: white;
+}
+.settings-header h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+}
+.settings-header i {
+    font-size: 1.5rem;
+    color: white;
+}
+.settings-profil-wrapper{
+    display: flex;
+    align-items: center;
+    padding: 20px 20px;
+    gap:10px;
+    border-bottom: 1px solid lightgray;
+}
+.fa-circle-user{
+    font-size: 60px;
+    color: grey;
+    opacity: 0.6;
+}
+.profil-name{
+    font-size: 1.5rem;
+    margin-bottom:0;
+}
+.profil-p{
+    font-size: 1rem;
+    margin-top: 5px;
+}
+.fa-qrcode{
+    font-size: 2rem;
+    padding-left: 30px;
+    opacity: 0.6;
+}
+.account{
+    display: flex;
+    align-items: center;
+    gap: 30px;
+    padding-left:20px ;
+    border-bottom: 1px solid #128C7E;
+    margin: 0 10px;
+}
+.right h1 {
+    font-size: 22px;
+    margin-bottom: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.right p {
+    font-size: 16   px;
+    margin-top: 4px;
+}
+.fa-key{
+    font-size: 25px;
+    color: #128C7E;
+    opacity: 0.6;
+    
+}
+.fa-message, .fa-bell, .fa-box-open, .fa-circle-question{
+    font-size: 25px;
+    color: #128C7E;
+    opacity: 0.6;
+    
+}

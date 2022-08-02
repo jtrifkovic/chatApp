@@ -1,0 +1,26 @@
+.header{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #25D366;
+    
+
+}
+.fa-camera{
+    padding-left:20px ;
+    font-size: 25px;
+    
+    color: white;
+}
+.header h1 {
+    padding-left: 93px;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:white;
+}
+.image{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+}

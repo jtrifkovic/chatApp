@@ -1,0 +1,57 @@
+
+.contacts-holder {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid lightgrey;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 7px;
+    gap: 10px;
+}
+.middle-text{
+    width: 100%;
+}
+.middle-text, .contact-name h1 {
+    font-size: 1.5rem;
+    font-weight: bold;
+    padding-left: 10px;
+    color: black;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+.middle-text, .contact-name h5 {
+    font-size: .9rem;
+    font-weight: 400;
+    margin-top: 0;
+    padding-left: 10px;
+    padding-top: 3px;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    width: 150px;
+    overflow-x: hidden;
+  
+}
+.time-wrapper{
+    padding-left: 75px;
+    padding-right: 10px;
+}
+.time-wrapper h3 {
+    margin: 0;
+    font-size: 1rem;
+    font-weight: 400;
+    
+}
+.time-wrapper h4{
+    margin: 0;
+    font-weight: 400;
+    background-color: rgb(0,128,0);
+    color: white;
+    border-radius: 50%;
+    height: 25px;
+    width: 25px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+   margin-left: 7px;
+} 

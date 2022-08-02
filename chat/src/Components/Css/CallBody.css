@@ -1,0 +1,35 @@
+.call-body-content{
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   justify-content: center;
+   padding-top: 9rem;
+}
+.user-image{
+    height: 150px;
+    width: 150px;
+}
+.call-body-content h1 {
+    font-size: 2rem;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-bottom: 0;
+}
+.call-body-content h2 {
+    font-size: 1.2rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 400;
+    color: white;
+    margin-top: 0;
+    padding-top: 5px;
+}
+.call-body-content h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    color: white;
+}
+.phonecall{
+    padding-top: 150px;
+}

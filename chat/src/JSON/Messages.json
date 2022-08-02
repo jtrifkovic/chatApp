@@ -1,0 +1,98 @@
+[
+    {
+        "id":1,
+        "message":"pozdrav, sta ima",
+        "sender":"Stefan Lazarevic",
+        "senderId":10,
+        "receiverId":999,
+        "receiver":"Bogdan Petrovic"
+    },
+    {
+        "id":1,
+        "message":"prodajes li auto jos uvijek",
+        "sender":"Stefan Lazarevic",
+        "senderId":10,
+        "receiverId":999,
+        "receiver":"Bogdan Petrovic"
+    },
+    {
+        "id":1,
+        "message":"evo na poslu",
+        "sender":"Bogdan Petrovic",
+        "senderId":999,
+        "receiverId":10,
+        "receiver":"Stefan Lazarevic"
+    },
+    {
+        "id":1,
+        "message":"prodajem naravno",
+        "sender":"Bogdan Petrovic",
+        "senderId":999,
+        "receiverId":10,
+        "receiver":"Stefan Lazarevic"
+    },
+    {
+        "id":2,
+        "message":"do kad je rok za app",
+        "sender":"Jovan Trifkovic",
+        "senderId":20,
+        "receiverId":999,
+        "receiver":"Bogdan Petrovic"
+    },
+    {
+        "id":2,
+        "message":"da li znas?",
+        "sender":"Jovan Trifkovic",
+        "senderId":20,
+        "receiverId":999,
+        "receiver":"Bogdan Petrovic"
+    },
+    {
+        "id":2,
+        "message":"u ponedeljak",
+        "sender":"Bogdan Petrovic",
+        "senderId":999,
+        "receiverId":20,
+        "receiver":"Jovan Trifkovic"
+    },
+    {
+        "id":2,
+        "message":"tad' treba da bude gotovo",
+        "sender":"Bogdan Petrovic",
+        "senderId":999,
+        "receiverId":20,
+        "receiver":"Jovan Trifkovic"
+    },
+    {
+        "id":3,
+        "message":"Jeste li naucili sta novo",
+        "sender":"Bogdan Petrovic",
+        "senderId":20,
+        "receiverId":999,
+        "receiver":"Jovan Trifkovic"
+    },
+    {
+        "id":3,
+        "message":"doci cu i ja sutra u kancelariju",
+        "sender":"Bogdan Petrovic",
+        "senderId":20,
+        "receiverId":999,
+        "receiver":"Jovan Trifkovic"
+    },
+    {
+        "id":3,
+        "message":"napreduje lijepo ",
+        "sender":"Bogdan Petrovic",
+        "senderId":999,
+        "receiverId":20,
+        "receiver":"Jovan Trifkovic"
+    },
+    {
+        "id":3,
+        "message":"naucili smo dosta stvari",
+        "sender":"Bogdan Petrovic",
+        "senderId":999,
+        "receiverId":20,
+        "receiver":"Jovan Trifkovic"
+    }
+]
